@@ -1,1 +1,3 @@
-Y asi como ella, lo perdi
+Comenzamos el proyecto con git, html y css
+
+NICE:)
