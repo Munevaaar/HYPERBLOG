@@ -1,0 +1,4 @@
+Mi primer archivo en git
+
+Paso 1, tener claro cada comando
+
